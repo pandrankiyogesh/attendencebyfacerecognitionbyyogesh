@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "faceattendancerealtime-52375",
+  "private_key_id": "c45b361d2307f1060698f4acd523ec6f4acea2cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhWtRpDSb8ry1h\nlog558RuvF2ecNdZScdVRm/HP9V6G+tDmVsKEiiCo2bgJSA/u0WCfqaKBny8bRMG\naS2pPn2LN2JOJYH6IMqAv1o+VRVmR8YG3xl8zxvMJMnDSC1a9kxq8fDHtjDT+Vc/\nJM9E9nP3JOT3CtUDPz1QGCdAm5TnanagJQtYcZker/fpuxHDLyVZQVRI40yKWGXV\nUyramjEHfF2zI19rE0igQ5AL2MNyeFXmiQOM4abdn3Z+uQaG+Nm8LKDz/VEzj0bG\n2mCey50mWvAaoahFJzYN16on2m7LpO6ljQMhOVCG502bQ8lN9UTwnsOcg/b+Jyea\nFSWHdL2pAgMBAAECggEAFSqOU9Wf6VDcztMwNVwe95Wqp2SK3YCP/+LvQcQtnVv8\n82r2gZImCuslEP17s3C3/SM/Kiykz5/hDxOW7dQIP6iyi4t7U058Jq6SX9NnAKXS\nJDgVMUNUpY55AuYHGImUsODLkD59BJPhTXV8IEqTps1o0glK65Snghvap/dU+403\nsY/QDVN+Vk/J8NW51JvOHVE6B693KUSdne2QjhX3xru35RpMN0pc39SL44tcDPDF\nF6CKVKECjJwGkqqX8eNoGnlAf5+NyO3pcPCoZ0uNi3xXY4m09qIM651UECdKnphL\nBp1xcAuY8bxFY8Hyivph1hdvGOBFDnlGaC7B/nt8BwKBgQD6WAcqrlkh9QnWFmLc\n18ZfsgA6Ju6+8n+QQxcFHk5PVc2ROE0DtvB5r2C7HcgSrSOwrXVXn96PnvSjW74A\nlezJc8Ydly3dmVKCtsiwRYRHCzaAKwyVj4QiDTjgtoX/jZHyia6VDEmX4DhDQ1H+\nOa6NLi6v5NFiZsSan36MBsy6pwKBgQDmckRHtzxZjz7F/gdPQI6GhDOXkXSB6vNk\nvSr40Dds93gVVIFWYGoVskGvzuJQpYXNUaEolM8ORwYFfiLm+r5VncnOv1pXXUfg\nHt7fsxduxD9JvdaN/EZqgBRkhzYq1WYTAeCMgSYpV801OG1MsaFzmLaFSKPhr9ig\nVxiECGHfLwKBgQDau/tXEYsTnnR/uIOdDnNnvbFxHf9Qm7VVqSj98eLecsvwbM7t\nxfQLfm74Tyc3Gkyq3IRAkZD20B5UdZ5oCJch1aRuyl7q1kI/r9FeIv9Wy7dM+VA/\nhWwgDIl73j7qcRnqXt5JoLjUmLbQHowPovqepJFqYnWIkt6Jc34wfuh21QKBgQDH\nE9+4tKsGE6F/Gbzm0jZOLtcDET09HuO1G1aMLBQ1pnOuuZoiLJh4tc3ZOzh3wwac\nIPDARg25n9Gr3RP5xpO3EuDMIrLA1mzJSOHxDp4nqpGh+sXnUxDh4FO9pLE+v6u2\nr+B0gP2eqaM1XtHNd4aqfjrvWZl51pelrJgZN8SVMQKBgAMt+wbsMC3Yne9Nv7Zx\nZrar80xHOoaMQglPnNNGPS0Xb81z6QZzEOm5On1Vnd4c1dcSmzrkH4G5jSiEP8Ps\nh6sVvdYLg1y2oad28SddfJCi/yRwMtyC0J9YSBWeS8820IPONDCaC8kW9HIm+uou\nhzBtmwNOpd4d60kB2Dn5wmuC\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-s2ifu@faceattendancerealtime-52375.iam.gserviceaccount.com",
+  "client_id": "105300154700074080195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-s2ifu%40faceattendancerealtime-52375.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
